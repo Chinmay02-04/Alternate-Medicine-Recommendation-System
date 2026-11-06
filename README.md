@@ -101,24 +101,8 @@ The application provides an option to explore medicine information through Apoll
 Users can also explore medicine information through PharmEasy.
 ![PharmEasy](PharmEasy.png)
 
-## 📂 8. Project Structure
 
-The repository contains the following files:
-
-Alternate-Medicine-Recommendation-System/
-│
-├── app.py
-├── Medicine_description.xlsx
-├── medicine_dict.pkl
-├── Home.png
-├── Search.png
-├── Recommend.png
-├── Apollo.png
-├── PharmEasy.png
-└── README.md
-
-
-## 🚀 9. Installation and Execution
+## 🚀 8. Installation and Execution
 
 Follow these steps to run the project on your local computer.
 
