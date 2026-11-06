@@ -117,6 +117,7 @@ Alternate-Medicine-Recommendation-System/
 ├── PharmEasy.png
 └── README.md
 
+
 ## 🚀 9. Installation and Execution
 
 Follow these steps to run the project on your local computer.
