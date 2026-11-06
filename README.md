@@ -108,21 +108,13 @@ The repository contains the following files:
 Alternate-Medicine-Recommendation-System/
 │
 ├── app.py
-│
 ├── Medicine_description.xlsx
-│
 ├── medicine_dict.pkl
-│
 ├── Home.png
-│
 ├── Search.png
-│
 ├── Recommend.png
-│
 ├── Apollo.png
-│
 ├── PharmEasy.png
-│
 └── README.md
 
 ## 🚀 9. Installation and Execution
